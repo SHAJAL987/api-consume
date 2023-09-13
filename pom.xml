@@ -15,7 +15,7 @@
     <name>api-consume</name>
     <description>api-consume</description>
     <properties>
-        <java.version>8</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
